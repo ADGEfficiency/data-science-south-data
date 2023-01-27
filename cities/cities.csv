@@ -1,4 +1,4 @@
-,city,population,hemisphere,land-area
-0,auckland,1.6,south,1086
-1,berlin,3.6,north,891
-2,london,8.9,north,1572
+city,population,hemisphere,land-area
+auckland,1.6,south,1086
+berlin,3.6,north,891
+london,8.9,north,1572

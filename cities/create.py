@@ -7,4 +7,4 @@ data = pd.DataFrame({
     'hemisphere': ['south', 'north', 'north'],
     'land-area': [1086, 891, 1572]
   })
-data.to_csv('./cities/cities.csv')
+data.to_csv('./cities/cities.csv', index=False)
